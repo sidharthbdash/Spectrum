@@ -18,7 +18,7 @@ I imported different machine learning libraries like:
 
 I have added a new column by adding 'G1','G2','G3' column. After that, I pre-processed the data in a dataframe , and changed the binary attributes into 0 or 1, encoded the nominal values. Then I have used various Machine Learning models and plotted the various graphs.
 
-In Linear Regression I used Ordinary Least Square(OLS) method for Backward Elimination of the attributes to find out which attributes affected the most.
+In Linear Regression I used Ordinary Least Square(OLS) method for Backward Elimination of the attributes to find out which attributes affected the most(which are 'absences','age','G1','G2').
 
 ## Various models used:
 #### 1. Linear Regression
