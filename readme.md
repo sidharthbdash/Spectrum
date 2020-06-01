@@ -2,7 +2,7 @@
 ## Student Grade Prediction Machine Learning using Linear regression, Decision tree and random Forest
 
 In this internship, I have done a project based on the student’s data and their previous math-marks.
-I imported different machine learning libraries like:
+I have used different machine learning libraries like:
 
     1. numpy,
 
